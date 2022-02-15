@@ -35,12 +35,18 @@ function [W] = ComputeWilsonLoops(data,grid,epsi,mu)
 %
 %   Written in MATLAB 2019a
 %
-%   Written by Robert Davis
+%   Written by Robert J. Davis
 %   Applied Electromagnetics Lab, UCSD
+% 
 %   If you use this code for research purposes, please cite the following:
-%   (Insert the cite here)
+%   D. Bisharat, R. Davis, Y. Zhou, P. Bandaru and D. Sievenpiper, 
+%   "Photonic Topological Insulators: A Beginner's Introduction 
+%   [Electromagnetic Perspectives]," in IEEE Antennas and Propagation 
+%   Magazine, vol. 63, no. 3, pp. 112-124, June 2021, 
+%   doi: 10.1109/MAP.2021.3069276.
+%
 %   Original: 2020-4-17
-%   Last updated 2021-1-21
+%   Last updated 2022-2-15
 % -------------------------------------------------------------------------
 
 % fetch real and k space grid info

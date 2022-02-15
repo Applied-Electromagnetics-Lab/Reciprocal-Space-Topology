@@ -14,9 +14,9 @@
 %
 %Written in MATLAB 2019a
 %
-%Written by Robert Davis
+%Written by Robert J. Davis
 %Original: 2019-5-28
-%Last updated 2020-12-23
+%Last updated 2022-2-15
 % ----------------------------------------------
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%User Settings%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
