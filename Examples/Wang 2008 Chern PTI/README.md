@@ -44,8 +44,8 @@ To compute Berry curvature (and then the Chern number):
 8. Compute the Berry curvature by running the MATLAB script ```analyzeData.m```. This is a one-off script that uses ```ComputeBerryCurvature()``` to do the calculation in a less manual fashion. By default the script will output (1) a typical plot of the modal field, (2) the Berry curvature of the first band, and (3) the Wilson loop eigenspectra, and will print out the Chern number to the console. 
 
 The expected mode profile is shown below (helpful for debugging):
-![loop](mode1Profile.png)
+![mode](mode1Profile.png)
 The last plot is the Wilson loop spectra:
-![[mode1WilsonLoop.png]]
+![loop(mode1WilsonLoop.png)
 
 The Chern number can be computed by integration (summing in this case) the Berry curvature, or by counting the number of times the Wilson loop covers the entire BZ. 
