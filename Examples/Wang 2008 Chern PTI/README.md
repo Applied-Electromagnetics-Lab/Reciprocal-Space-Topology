@@ -46,6 +46,6 @@ To compute Berry curvature (and then the Chern number):
 The expected mode profile is shown below (helpful for debugging):
 ![mode](mode1Profile.png)
 The last plot is the Wilson loop spectra:
-![loop(mode1WilsonLoop.png)
+![loop](mode1WilsonLoop.png)
 
 The Chern number can be computed by integration (summing in this case) the Berry curvature, or by counting the number of times the Wilson loop covers the entire BZ. 
