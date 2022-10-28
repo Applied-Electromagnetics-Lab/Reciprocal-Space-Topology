@@ -22,8 +22,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%User Settings%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 cellPeriod = 20*10^-3; %lattice periodicity, in m
 filename = 'file.csv';
-modes = 4; %number of modes to plot
-lattice = 'tri'; %either 'tri' or 'square'
+modes = 3; %number of modes to plot
+lattice = 'square'; %either 'tri' or 'square'
 scale = 'norm'; %either 'norm' for normalized units or 'GHz' for frequency
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
